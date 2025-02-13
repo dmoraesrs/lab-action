@@ -9,5 +9,5 @@ variable "aws_region" {
 variable "bucket_name" {
     description = "The name of the S3 bucket"
     type        = string
-    default     = "teste-tf-01-lean"
+    default     = "teste-tf-01-lean-teste"
 }
